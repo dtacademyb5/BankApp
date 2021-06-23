@@ -20,7 +20,7 @@ public abstract class Account implements BaseInterestRate{
 	
 	//Field declarations go here
 	
-	
+	String name;
 	
 	
 	
@@ -50,7 +50,7 @@ public abstract class Account implements BaseInterestRate{
 	 */
 	private String generateAccountnumber() {
 	   //implementation goes here
-		
+		return null;
 	}
 	
 	
