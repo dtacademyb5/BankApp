@@ -95,6 +95,17 @@ public abstract class Account implements BaseInterestRate{
 	public void showInfo() {
 		
 	}
+	
+	
+	/*
+	 * Declare the following fields:
+	 * 
+	 * name - represents an accountholder's full name
+	 * ssn - represents an accountholder's ssn
+	 * balance - represents the balance of the account
+	 * accountNumber - represents the unique id of the account 
+	 * interestRate - represents the base interest rate for all accounts 
+	 */
 
 
 }
