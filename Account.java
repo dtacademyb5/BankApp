@@ -7,6 +7,8 @@
  */
 
 public abstract class Account implements BaseInterestRate{
+
+	int a;
 	
 	/*
 	 * Declare the following fields:
