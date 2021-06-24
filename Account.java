@@ -9,6 +9,9 @@
 public abstract class Account implements BaseInterestRate{
 
 	int a;
+ 
+        String last;
+        String first;
 	
 	/*
 	 * Declare the following fields:
