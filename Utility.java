@@ -9,6 +9,8 @@ public class Utility {
 
 	Object o;
 	int a;
+
+	int b;
 	
 	
 	
